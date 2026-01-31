@@ -20,3 +20,8 @@ To analyze Adidas sales performance across regions, products, customers, and tim
 
 ### Tools Used
 Power BI | DAX | Power Query
+
+
+screenshots 
+
+<img width="1344" height="677" alt="Screenshot 2026-01-31 175239" src="https://github.com/user-attachments/assets/f2e0d61d-6eda-4262-959f-b3f500740ef1" />
