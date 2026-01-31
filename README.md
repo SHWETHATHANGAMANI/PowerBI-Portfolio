@@ -1,11 +1,22 @@
-Hi, I’m Shwetha 
-A Power BI / Data Analyst with hands-on experience building **30+ dashboards** using real-world business scenarios.
+## Adidas Sales Performance & Analysis Dashboard
 
-## 🔧 Tools & Skills
-- Power BI (DAX, Power Query, Data Modeling)
-- SQL (Joins, Aggregations, Aggregates)
-- Excel
-- Data Cleaning & Validation
-- Business KPI Analysis
+### Business Objective
+To analyze Adidas sales performance across regions, products, customers, and time, enabling data-driven decisions on revenue growth and profitability.
 
-## 📊 Dashboards
+### KPIs
+- Total Sales
+- Previous Month Sales
+- Sales Growth %
+- Total Units Sold
+- Total Transactions
+- Average Operating Margin
+
+### Key Insights
+- Sales show strong seasonality with peak performance during mid-year months
+- Online sales contribute the highest operating profit compared to other sales methods
+- Certain product categories generate high revenue but lower profit margins
+- Male customers contribute a slightly higher share of total sales compared to female customers
+- Regional performance varies significantly, with specific states driving major revenue
+
+### Tools Used
+Power BI | DAX | Power Query
