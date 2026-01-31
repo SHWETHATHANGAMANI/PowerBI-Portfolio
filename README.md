@@ -1,22 +1,50 @@
-## Adidas Sales Performance & Analysis Dashboard
+# Power BI Dashboard Portfolio
 
-### Business Objective
-To analyze Adidas sales performance across regions, products, customers, and time, enabling data-driven decisions on revenue growth and profitability.
+Hi, I’m **Shwetha Thangamani** 👋  
+A Power BI / Data Analyst with hands-on experience in building **19+ interactive dashboards** using real-world business scenarios.
 
-### KPIs
-- Total Sales
-- Previous Month Sales
-- Sales Growth %
-- Total Units Sold
-- Total Transactions
-- Average Operating Margin
+This repository showcases dashboards created during practice and projects, focusing on **business insights, KPIs, and decision-making analysis**.
 
-### Key Insights
-- Sales show strong seasonality with peak performance during mid-year months
-- Online sales contribute the highest operating profit compared to other sales methods
-- Certain product categories generate high revenue but lower profit margins
-- Male customers contribute a slightly higher share of total sales compared to female customers
-- Regional performance varies significantly, with specific states driving major revenue
+---
 
-### Tools Used
-Power BI | DAX | Power Query
+## 🔧 Tools & Skills
+- Power BI (DAX, Power Query, Data Modeling)
+- SQL (Joins, Aggregations)
+- Excel
+- Data Cleaning & Validation
+- Business & KPI Analysis
+
+---
+
+## 📊 Dashboard Categories
+The dashboards in this portfolio cover:
+
+- Sales & Revenue Analysis  
+- HR Analytics & Attrition  
+- Customer Churn & Support Analytics  
+- Retail & Product Performance  
+- Operations & Call Centre Analytics  
+- Financial & Profitability Analysis  
+
+Each dashboard includes:
+- Business objective
+- KPIs & metrics
+- Key insights
+- Dashboard screenshots
+- Power BI (.pbix) file
+
+---
+
+## ⭐ Featured Dashboards
+- Adidas Sales Performance Dashboard  
+- HR Attrition Analytics Dashboard  
+- Customer Churn Analysis Dashboard  
+- Car Sales Analysis Dashboard  
+- Call Centre Operations Dashboard  
+
+
+---
+
+## 📫 Contact
+- LinkedIn: *(add your LinkedIn profile link here)*
+
